@@ -1,7 +1,7 @@
 
-  <p align="center">
+  <h1 align="center">
   <b>Mini-projet Spring - Gestion de devises</b>
-  </p>
+  </h1>
 
 🔰 Introduction
 Ce mini-projet a été réalisé dans le cadre d’un TP pour découvrir le principe d’inversion de contrôle (IOC) et injection des dépendances avec Spring.
