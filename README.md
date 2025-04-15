@@ -53,6 +53,7 @@ L’objectif est de construire une petite application capable de convertir un mo
     &nbsp;&nbsp;- Appliquer différents types d’injection.<br>
     &nbsp;&nbsp;- Utiliser à la fois des fichiers XML et des annotations modernes.<br>
 ➝ Ce TP m’a donné une bonne base pour construire des projets plus grands avec Spring.<br>  
+<h3><b>Auteur : </b></h3> Anejjar Wiame<br>
 
 
 
