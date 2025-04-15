@@ -4,11 +4,11 @@
   </h1>
 
 🔰 Introduction:  
-Ce mini-projet a été réalisé dans le cadre d’un TP pour découvrir le principe d’inversion de contrôle (IOC) et injection des dépendances avec Spring.
-L’objectif est de construire une petite application capable de convertir un montant d’une devise à une autre à l’aide de taux de change simulés.
-    - L’accent est mis sur :
-    L'injection des dépendances (constructeur, setter, champ).
-    L’utilisation de Spring XML et des annotations.
+   Ce mini-projet a été réalisé dans le cadre d’un TP pour découvrir le principe d’inversion de contrôle (IOC) et injection des dépendances avec Spring.
+L’objectif est de construire une petite application capable de convertir un montant d’une devise à une autre à l’aide de taux de change simulés.  
+    - L’accent est mis sur :  
+    L'injection des dépendances (constructeur, setter, champ).  
+    L’utilisation de Spring XML et des annotations.  
     
 🧱 Architecture du projet:
 📁 Package dao : couche d’accès aux taux de change:
