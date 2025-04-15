@@ -1,3 +1,8 @@
+
+  <p align="center">
+  <b>Mini-projet Spring - Gestion de devises</b>
+  </p>
+
 🔰 Introduction
 Ce mini-projet a été réalisé dans le cadre d’un TP pour découvrir le principe d’inversion de contrôle (IOC) et injection des dépendances avec Spring.
 L’objectif est de construire une petite application capable de convertir un montant d’une devise à une autre à l’aide de taux de change simulés.
