@@ -39,7 +39,7 @@ L’objectif est de construire une petite application capable de convertir un mo
 &nbsp;&nbsp;&nbsp;🔹La classe PresSpringAnnotation utilise un contexte d'application Spring basé sur des annotations (AnnotationConfigApplicationContext) qui scanne automatiquement le package 'net.anejjar' pour détecter les composants Spring (@Component, etc.) et configure l'injection automatique des dépendances.<br> 
 &nbsp;&nbsp;&nbsp;🔹PresSpringXML repose sur un fichier de configuration config.xml pour déclarer et injecter manuellement les beans Spring. <br>
 ➝ Ces deux classes permettent de tester le fonctionnement de l’application avec les deux approches : XML et Annotations.<br>
-<h2><b>🧪 Résultats attendus: </b></h2>
+<h2><b>⇛ Résultats attendus: </b></h2>
 &nbsp;&nbsp;&nbsp;Lorsque l’on exécute la classe de présentation, le programme affiche le résultat de la conversion, par exemple : <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Résultat : 500 MAD ➝ 45 EUR</b><br>
 &nbsp;Cela prouve que :<br>
