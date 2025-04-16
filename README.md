@@ -37,6 +37,8 @@ L’objectif est de construire une petite application capable de convertir un mo
 <h4><b>📁 Package pres : couche de présentation</b></h4>
    &nbsp;&nbsp;Ce package contient les classes PresSpringAnnotation et PresSpringXML.<br>   
 &nbsp;&nbsp;&nbsp;🔹La classe PresSpringAnnotation utilise un contexte d'application Spring basé sur des annotations (AnnotationConfigApplicationContext) qui scanne automatiquement le package 'net.anejjar' pour détecter les composants Spring (@Component, etc.) et configure l'injection automatique des dépendances.<br> 
+
+   ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/ca4bd0a486c34aad645cd1a71581401c683e906a/ann.JPG)
 &nbsp;&nbsp;&nbsp;🔹PresSpringXML repose sur un fichier de configuration config.xml pour déclarer et injecter manuellement les beans Spring. <br>
 
    ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/4489ebed72c9c9aa6bdd656194401380774facbd/resultatXML.JPG)
