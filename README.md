@@ -30,7 +30,7 @@ L’objectif est de construire une petite application capable de convertir un mo
  <h4><b>📁 Package metier : couche métier</b></h4>
    &nbsp;&nbsp;Ce package contient l’interface IMetier et sa classe IMetierImpl. <br>   
 🔹 IMetier définit une méthode convertir(String from, String to, double montant) qui effectue la conversion. <br> 
-    &nbsp;&nbsp;&nbsp;IMetierImpl implémente cette interface : <br>
+    &nbsp;&nbsp;&nbsp;Elle implémente cette interface : <br>
     &nbsp;&nbsp;- Elle utilise un DAO injecté pour obtenir le taux de conversion.<br>
     &nbsp;&nbsp;- Puis elle retourne montant * taux. <br>
                
