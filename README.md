@@ -46,8 +46,7 @@ L’objectif est de construire une petite application capable de convertir un mo
 ➝ Ces deux classes permettent de tester le fonctionnement de l’application avec les deux approches : XML et Annotations.<br>
 
 <h2><b>⇛ Résultats attendus: </b></h2>
-&nbsp;&nbsp;&nbsp;Lorsque l’on exécute la classe de présentation, le programme affiche le résultat de la conversion, par exemple : <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Résultat : 500 MAD ➝ 45 EUR</b><br>
+&nbsp;&nbsp;&nbsp;Lorsque l’on exécute la classe de présentation, le programme affiche le résultat de la conversion.<br>
 &nbsp;Cela prouve que :<br>
  &nbsp;&nbsp;- Le DAO fournit bien le taux. <br>
     &nbsp;&nbsp;- La couche métier effectue la conversion.<br>
