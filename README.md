@@ -49,6 +49,7 @@ L’objectif est de construire une petite application capable de convertir un mo
 
    ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/4489ebed72c9c9aa6bdd656194401380774facbd/resultatXML.JPG)
    ----- config.xml:
+   ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/897ddd7fc2d12474016afaf9f680519e6dc66ece/config.JPG)
    
 
 ➝ Ces deux classes permettent de tester le fonctionnement de l’application avec les deux approches : XML et Annotations.<br>
