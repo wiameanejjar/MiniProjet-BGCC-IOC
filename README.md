@@ -29,6 +29,8 @@ L’objectif est de construire une petite application capable de convertir un mo
     &nbsp;&nbsp;&nbsp;MetierImpl implémente cette interface : <br>
     &nbsp;&nbsp;- Elle utilise un DAO injecté pour obtenir le taux de conversion.<br>
     &nbsp;&nbsp;- Puis elle retourne montant * taux. <br>
+               
+  ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/335529f863434932f943c6f863a6fbed158f2b5f/imetier.JPG)
 ➝ On y applique l’injection des dépendances de 3 manières différentes :<br>
     &nbsp;&nbsp;1. Par constructeur: Injection de la dépendance DAO dès la création de l’objet métier. <br>
     &nbsp;&nbsp;2. Par setter: Injection après création via un setter setDao()<br>
