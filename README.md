@@ -24,6 +24,8 @@ L’objectif est de construire une petite application capable de convertir un mo
    &nbsp;&nbsp;Ce package contient DaoImpl2, une deuxième version de l’implémentation de l’interface IDao.<br>   
 &nbsp;🔹Elle permet de tester l’injection dynamique de différentes versions du DAO. <br> 
 &nbsp;🔹Utile pour illustrer la souplesse de Spring, car on peut passer d’un DAO à un autre sans modifier le code métier.<br>
+     
+  ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/1088eeb57cff69f8ea387837f50fd55ffa52ba04/V2.JPG)
 
  <h4><b>📁 Package metier : couche métier</b></h4>
    &nbsp;&nbsp;Ce package contient l’interface IMetier et sa classe MetierImpl. <br>   
