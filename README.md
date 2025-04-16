@@ -16,6 +16,8 @@ L’objectif est de construire une petite application capable de convertir un mo
 🔹La classe DaoImpl implémente cette interface avec des taux codés pour simplifier : <br> 
     - 1 MAD ➝ 0.09 EUR  <br>
     - 1 EUR ➝ 11 MAD  <br>
+    
+   ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/944c7b2c13daaa18f9e7215cc6d95b6cb7ff37f6/daoImpl.JPG)
 ➝ Cette couche simule le rôle d’une source de données (ex. : une base de données ou une API réelle dans une vraie application).<br>
 
 <h4><b>📁 Package ext : deuxième version DAO </b></h4>
