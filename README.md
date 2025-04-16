@@ -48,6 +48,8 @@ L’objectif est de construire une petite application capable de convertir un mo
 &nbsp;&nbsp;&nbsp;🔹PresSpringXML repose sur un fichier de configuration config.xml pour déclarer et injecter manuellement les beans Spring. <br>
 
    ![img](https://github.com/wiameanejjar/MiniProjet-BGCC-IOC/blob/4489ebed72c9c9aa6bdd656194401380774facbd/resultatXML.JPG)
+   ----- config.xml:
+   
 
 ➝ Ces deux classes permettent de tester le fonctionnement de l’application avec les deux approches : XML et Annotations.<br>
 
